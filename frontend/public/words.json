@@ -1,0 +1,3132 @@
+{
+  "nouns": [
+    { "singular": "token", "plural": "tokens" },
+    { "singular": "crypto", "plural": "crypto" },
+    { "singular": "bitcoin", "plural": "bitcoin" },
+    { "singular": "wagmi", "plural": "wagmi" },
+    { "singular": "fren", "plural": "frens" },
+    { "singular": "ser", "plural": "sers" },
+    { "singular": "fiat", "plural": "fiat" },
+    { "singular": "wagmi", "plural": "wagmi" },
+    { "singular": "fork", "plural": "forks" },
+    { "singular": "NFT", "plural": "NFTs" },
+    { "singular": "rekt", "plural": "rekt" },
+    { "singular": "whale", "plural": "whales" },
+    { "singular": "cd", "plural": "cds" },
+    { "singular": "tv", "plural": "tvs" },
+    { "singular": "act", "plural": "acts" },
+    { "singular": "ad", "plural": "ads" },
+    { "singular": "age", "plural": "ages" },
+    { "singular": "aide", "plural": "aides" },
+    { "singular": "air", "plural": "airs" },
+    { "singular": "ale", "plural": "ales" },
+    { "singular": "ape", "plural": "apes" },
+    { "singular": "app", "plural": "apps" },
+    { "singular": "arch", "plural": "arches" },
+    { "singular": "area", "plural": "areas" },
+    { "singular": "ark", "plural": "arks" },
+    { "singular": "arm", "plural": "arms" },
+    { "singular": "rest", "plural": "rests" },
+    { "singular": "army", "plural": "armies" },
+    { "singular": "art", "plural": "arts" },
+    { "singular": "ash", "plural": "ashes" },
+    { "singular": "aunt", "plural": "aunts" },
+    { "singular": "auto", "plural": "autos" },
+    { "singular": "babe", "plural": "babes" },
+    { "singular": "baby", "plural": "babies" },
+    { "singular": "bag", "plural": "bags" },
+    { "singular": "bail", "plural": "bails" },
+    { "singular": "bait", "plural": "baits" },
+    { "singular": "bake", "plural": "bakes" },
+    { "singular": "ball", "plural": "balls" },
+    { "singular": "ban", "plural": "bans" },
+    { "singular": "band", "plural": "bands" },
+    { "singular": "bank", "plural": "banks" },
+    { "singular": "bar", "plural": "bars" },
+    { "singular": "bark", "plural": "barks" },
+    { "singular": "barn", "plural": "barns" },
+    { "singular": "base", "plural": "bases" },
+    { "singular": "bass", "plural": "basses" },
+    { "singular": "bat", "plural": "bats" },
+    { "singular": "bath", "plural": "baths" },
+    { "singular": "bay", "plural": "bays" },
+    { "singular": "beak", "plural": "beaks" },
+    { "singular": "beam", "plural": "beams" },
+    { "singular": "bean", "plural": "beans" },
+    { "singular": "beat", "plural": "beats" },
+    { "singular": "beck", "plural": "becks" },
+    { "singular": "bee", "plural": "bees" },
+    { "singular": "beef", "plural": "beefs" },
+    { "singular": "beer", "plural": "beers" },
+    { "singular": "beet", "plural": "beets" },
+    { "singular": "bell", "plural": "bells" },
+    { "singular": "bet", "plural": "bets" },
+    { "singular": "bid", "plural": "bids" },
+    { "singular": "bill", "plural": "bills" },
+    { "singular": "bird", "plural": "birds" },
+    { "singular": "bit", "plural": "bits" },
+    { "singular": "blog", "plural": "blogs" },
+    { "singular": "boat", "plural": "boats" },
+    { "singular": "body", "plural": "bodies" },
+    { "singular": "bolt", "plural": "bolts" },
+    { "singular": "bomb", "plural": "bombs" },
+    { "singular": "bond", "plural": "bonds" },
+    { "singular": "bone", "plural": "bones" },
+    { "singular": "book", "plural": "books" },
+    { "singular": "boom", "plural": "booms" },
+    { "singular": "boon", "plural": "boons" },
+    { "singular": "boot", "plural": "boots" },
+    { "singular": "bore", "plural": "bores" },
+    { "singular": "boss", "plural": "bosses" },
+    { "singular": "line", "plural": "lines" },
+    { "singular": "bow", "plural": "bows" },
+    { "singular": "bowl", "plural": "bowls" },
+    { "singular": "box", "plural": "boxes" },
+    { "singular": "boy", "plural": "boys" },
+    { "singular": "bran", "plural": "brans" },
+    { "singular": "law", "plural": "laws" },
+    { "singular": "brow", "plural": "brows" },
+    { "singular": "buck", "plural": "bucks" },
+    { "singular": "bud", "plural": "buds" },
+    { "singular": "bug", "plural": "bugs" },
+    { "singular": "bulb", "plural": "bulbs" },
+    { "singular": "bulk", "plural": "bulks" },
+    { "singular": "bull", "plural": "bulls" },
+    { "singular": "bump", "plural": "bumps" },
+    { "singular": "bun", "plural": "buns" },
+    { "singular": "bus", "plural": "buses" },
+    { "singular": "bush", "plural": "bushes" },
+    { "singular": "bust", "plural": "busts" },
+    { "singular": "cage", "plural": "cages" },
+    { "singular": "cake", "plural": "cakes" },
+    { "singular": "calf", "plural": "calves" },
+    { "singular": "call", "plural": "calls" },
+    { "singular": "calm", "plural": "calms" },
+    { "singular": "camp", "plural": "camps" },
+    { "singular": "cane", "plural": "canes" },
+    { "singular": "cap", "plural": "caps" },
+    { "singular": "cape", "plural": "capes" },
+    { "singular": "car", "plural": "cars" },
+    { "singular": "card", "plural": "cards" },
+    { "singular": "care", "plural": "cares" },
+    { "singular": "case", "plural": "cases" },
+    { "singular": "cash", "plural": "cash" },
+    { "singular": "cat", "plural": "cats" },
+    { "singular": "cell", "plural": "cells" },
+    { "singular": "cent", "plural": "cents" },
+    { "singular": "chap", "plural": "chaps" },
+    { "singular": "chef", "plural": "chefs" },
+    { "singular": "chin", "plural": "chins" },
+    { "singular": "chip", "plural": "chips" },
+    { "singular": "chit", "plural": "chits" },
+    { "singular": "chop", "plural": "chops" },
+    { "singular": "chow", "plural": "chows" },
+    { "singular": "chub", "plural": "chubs" },
+    { "singular": "city", "plural": "cities" },
+    { "singular": "clam", "plural": "clams" },
+    { "singular": "clan", "plural": "clans" },
+    { "singular": "claw", "plural": "claws" },
+    { "singular": "clay", "plural": "clays" },
+    { "singular": "clef", "plural": "clefs" },
+    { "singular": "clip", "plural": "clips" },
+    { "singular": "coal", "plural": "coals" },
+    { "singular": "coat", "plural": "coats" },
+    { "singular": "cob", "plural": "cobs" },
+    { "singular": "cod", "plural": "cod" },
+    { "singular": "code", "plural": "codes" },
+    { "singular": "coil", "plural": "coils" },
+    { "singular": "coin", "plural": "coins" },
+    { "singular": "colt", "plural": "colts" },
+    { "singular": "comb", "plural": "combs" },
+    { "singular": "con", "plural": "cons" },
+    { "singular": "cone", "plural": "cones" },
+    { "singular": "cook", "plural": "cooks" },
+    { "singular": "cop", "plural": "cops" },
+    { "singular": "cope", "plural": "copes" },
+    { "singular": "copy", "plural": "copies" },
+    { "singular": "cord", "plural": "cords" },
+    { "singular": "core", "plural": "cores" },
+    { "singular": "cork", "plural": "corks" },
+    { "singular": "corn", "plural": "corns" },
+    { "singular": "cost", "plural": "costs" },
+    { "singular": "cot", "plural": "cots" },
+    { "singular": "cow", "plural": "cows" },
+    { "singular": "crab", "plural": "crabs" },
+    { "singular": "crew", "plural": "crews" },
+    { "singular": "crop", "plural": "crops" },
+    { "singular": "crow", "plural": "crows" },
+    { "singular": "cry", "plural": "cries" },
+    { "singular": "cub", "plural": "cubs" },
+    { "singular": "cube", "plural": "cubes" },
+    { "singular": "cue", "plural": "cues" },
+    { "singular": "cuff", "plural": "cuffs" },
+    { "singular": "cure", "plural": "cures" },
+    { "singular": "cut", "plural": "cuts" },
+    { "singular": "dam", "plural": "dams" },
+    { "singular": "dart", "plural": "darts" },
+    { "singular": "dash", "plural": "dashes" },
+    { "singular": "date", "plural": "dates" },
+    { "singular": "dawn", "plural": "dawns" },
+    { "singular": "day", "plural": "days" },
+    { "singular": "deal", "plural": "deals" },
+    { "singular": "debt", "plural": "debts" },
+    { "singular": "deck", "plural": "decks" },
+    { "singular": "deer", "plural": "deer" },
+    { "singular": "desk", "plural": "desks" },
+    { "singular": "dew", "plural": "dews" },
+    { "singular": "dig", "plural": "digs" },
+    { "singular": "dill", "plural": "dills" },
+    { "singular": "dime", "plural": "dimes" },
+    { "singular": "dip", "plural": "dips" },
+    { "singular": "dirt", "plural": "dirts" },
+    { "singular": "dish", "plural": "dishes" },
+    { "singular": "disk", "plural": "disks" },
+    { "singular": "doc", "plural": "docs" },
+    { "singular": "dock", "plural": "docks" },
+    { "singular": "doe", "plural": "does" },
+    { "singular": "dog", "plural": "dogs" },
+    { "singular": "door", "plural": "doors" },
+    { "singular": "dot", "plural": "dots" },
+    { "singular": "drag", "plural": "drags" },
+    { "singular": "drop", "plural": "drops" },
+    { "singular": "drug", "plural": "drugs" },
+    { "singular": "drum", "plural": "drums" },
+    { "singular": "duck", "plural": "ducks" },
+    { "singular": "dude", "plural": "dudes" },
+    { "singular": "duel", "plural": "duels" },
+    { "singular": "dump", "plural": "dumps" },
+    { "singular": "dune", "plural": "dunes" },
+    { "singular": "dusk", "plural": "dusks" },
+    { "singular": "dust", "plural": "dusts" },
+    { "singular": "duty", "plural": "duties" },
+    { "singular": "mail", "plural": "mails" },
+    { "singular": "ease", "plural": "eases" },
+    { "singular": "eddy", "plural": "eddies" },
+    { "singular": "edge", "plural": "edges" },
+    { "singular": "eel", "plural": "eels" },
+    { "singular": "egg", "plural": "eggs" },
+    { "singular": "ego", "plural": "egoes" },
+    { "singular": "elk", "plural": "elks" },
+    { "singular": "end", "plural": "ends" },
+    { "singular": "envy", "plural": "envies" },
+    { "singular": "epic", "plural": "epics" },
+    { "singular": "era", "plural": "eras" },
+    { "singular": "wife", "plural": "wives" },
+    { "singular": "exam", "plural": "exams" },
+    { "singular": "exit", "plural": "exits" },
+    { "singular": "eye", "plural": "eyes" },
+    { "singular": "face", "plural": "faces" },
+    { "singular": "fact", "plural": "facts" },
+    { "singular": "fall", "plural": "falls" },
+    { "singular": "fame", "plural": "fames" },
+    { "singular": "fan", "plural": "fans" },
+    { "singular": "fang", "plural": "fangs" },
+    { "singular": "pack", "plural": "packs" },
+    { "singular": "farm", "plural": "farms" },
+    { "singular": "fate", "plural": "fates" },
+    { "singular": "fav", "plural": "favs" },
+    { "singular": "fawn", "plural": "fawns" },
+    { "singular": "fax", "plural": "faxes" },
+    { "singular": "fear", "plural": "fears" },
+    { "singular": "fig", "plural": "figs" },
+    { "singular": "file", "plural": "files" },
+    { "singular": "fill", "plural": "fills" },
+    { "singular": "film", "plural": "films" },
+    { "singular": "fir", "plural": "firs" },
+    { "singular": "fire", "plural": "fires" },
+    { "singular": "firm", "plural": "firms" },
+    { "singular": "fix", "plural": "fixes" },
+    { "singular": "flag", "plural": "flags" },
+    { "singular": "flan", "plural": "flans" },
+    { "singular": "flip", "plural": "flips" },
+    { "singular": "flow", "plural": "flows" },
+    { "singular": "fly", "plural": "flies" },
+    { "singular": "foal", "plural": "foals" },
+    { "singular": "foam", "plural": "foams" },
+    { "singular": "fog", "plural": "fogs" },
+    { "singular": "folk", "plural": "folks" },
+    { "singular": "food", "plural": "foods" },
+    { "singular": "ford", "plural": "fords" },
+    { "singular": "form", "plural": "forms" },
+    { "singular": "fort", "plural": "forts" },
+    { "singular": "frog", "plural": "frogs" },
+    { "singular": "fry", "plural": "fries" },
+    { "singular": "fuel", "plural": "fuels" },
+    { "singular": "fun", "plural": "funs" },
+    { "singular": "fund", "plural": "funds" },
+    { "singular": "gain", "plural": "gains" },
+    { "singular": "game", "plural": "games" },
+    { "singular": "ray", "plural": "rays" },
+    { "singular": "gang", "plural": "gangs" },
+    { "singular": "gap", "plural": "gaps" },
+    { "singular": "gas", "plural": "gases" },
+    { "singular": "gasp", "plural": "gasps" },
+    { "singular": "gate", "plural": "gates" },
+    { "singular": "geek", "plural": "geeks" },
+    { "singular": "gel", "plural": "gels" },
+    { "singular": "gem", "plural": "gems" },
+    { "singular": "gene", "plural": "genes" },
+    { "singular": "gift", "plural": "gifts" },
+    { "singular": "gig", "plural": "gigs" },
+    { "singular": "git", "plural": "gits" },
+    { "singular": "glow", "plural": "glows" },
+    { "singular": "glut", "plural": "gluts" },
+    { "singular": "gnat", "plural": "gnats" },
+    { "singular": "gnu", "plural": "gnus" },
+    { "singular": "goal", "plural": "goals" },
+    { "singular": "goat", "plural": "goats" },
+    { "singular": "golf", "plural": "golves" },
+    { "singular": "bye", "plural": "byes" },
+    { "singular": "grab", "plural": "grabs" },
+    { "singular": "gran", "plural": "grans" },
+    { "singular": "grin", "plural": "grins" },
+    { "singular": "grip", "plural": "grips" },
+    { "singular": "grit", "plural": "grits" },
+    { "singular": "guy", "plural": "guys" },
+    { "singular": "gym", "plural": "gyms" },
+    { "singular": "hail", "plural": "hails" },
+    { "singular": "hair", "plural": "hairs" },
+    { "singular": "half", "plural": "halves" },
+    { "singular": "hall", "plural": "halls" },
+    { "singular": "halt", "plural": "halts" },
+    { "singular": "hand", "plural": "hands" },
+    { "singular": "hare", "plural": "hares" },
+    { "singular": "harm", "plural": "harms" },
+    { "singular": "harp", "plural": "harps" },
+    { "singular": "hash", "plural": "hashes" },
+    { "singular": "hawk", "plural": "hawks" },
+    { "singular": "hay", "plural": "hays" },
+    { "singular": "haze", "plural": "hazes" },
+    { "singular": "head", "plural": "heads" },
+    { "singular": "heat", "plural": "heats" },
+    { "singular": "heel", "plural": "heels" },
+    { "singular": "helo", "plural": "heloes" },
+    { "singular": "help", "plural": "helps" },
+    { "singular": "hen", "plural": "hens" },
+    { "singular": "herb", "plural": "herbs" },
+    { "singular": "hero", "plural": "heroes" },
+    { "singular": "rise", "plural": "rises" },
+    { "singular": "hill", "plural": "hills" },
+    { "singular": "hint", "plural": "hints" },
+    { "singular": "hip", "plural": "hips" },
+    { "singular": "hire", "plural": "hires" },
+    { "singular": "hog", "plural": "hogs" },
+    { "singular": "home", "plural": "homes" },
+    { "singular": "hood", "plural": "hoods" },
+    { "singular": "hoof", "plural": "hoofs" },
+    { "singular": "hook", "plural": "hooks" },
+    { "singular": "hop", "plural": "hops" },
+    { "singular": "host", "plural": "hosts" },
+    { "singular": "hour", "plural": "hours" },
+    { "singular": "hub", "plural": "hubs" },
+    { "singular": "hug", "plural": "hugs" },
+    { "singular": "hull", "plural": "hulls" },
+    { "singular": "hunt", "plural": "hunts" },
+    { "singular": "hut", "plural": "huts" },
+    { "singular": "hype", "plural": "hypes" },
+    { "singular": "ice", "plural": "ices" },
+    { "singular": "icon", "plural": "icons" },
+    { "singular": "icy", "plural": "icies" },
+    { "singular": "id", "plural": "ids" },
+    { "singular": "idea", "plural": "ideas" },
+    { "singular": "joke", "plural": "jokes" },
+    { "singular": "inch", "plural": "inches" },
+    { "singular": "inn", "plural": "inns" },
+    { "singular": "iris", "plural": "irises" },
+    { "singular": "iron", "plural": "irons" },
+    { "singular": "item", "plural": "items" },
+    { "singular": "jack", "plural": "jacks" },
+    { "singular": "jade", "plural": "jades" },
+    { "singular": "jam", "plural": "jams" },
+    { "singular": "jar", "plural": "jars" },
+    { "singular": "jaw", "plural": "jaws" },
+    { "singular": "jazz", "plural": "jazzes" },
+    { "singular": "jet", "plural": "jets" },
+    { "singular": "job", "plural": "jobs" },
+    { "singular": "jot", "plural": "jots" },
+    { "singular": "joy", "plural": "joys" },
+    { "singular": "judo", "plural": "judoes" },
+    { "singular": "jug", "plural": "jugs" },
+    { "singular": "jump", "plural": "jumps" },
+    { "singular": "jury", "plural": "juries" },
+    { "singular": "jute", "plural": "jutes" },
+    { "singular": "kale", "plural": "kales" },
+    { "singular": "kid", "plural": "kids" },
+    { "singular": "kind", "plural": "kinds" },
+    { "singular": "king", "plural": "kings" },
+    { "singular": "kit", "plural": "kits" },
+    { "singular": "kiwi", "plural": "kiwis" },
+    { "singular": "knee", "plural": "knees" },
+    { "singular": "knot", "plural": "knots" },
+    { "singular": "lab", "plural": "labs" },
+    { "singular": "lace", "plural": "laces" },
+    { "singular": "lack", "plural": "lacks" },
+    { "singular": "lady", "plural": "ladies" },
+    { "singular": "lag", "plural": "lags" },
+    { "singular": "lake", "plural": "lakes" },
+    { "singular": "lamb", "plural": "lambs" },
+    { "singular": "lamp", "plural": "lamps" },
+    { "singular": "land", "plural": "lands" },
+    { "singular": "lane", "plural": "lanes" },
+    { "singular": "lard", "plural": "lards" },
+    { "singular": "lark", "plural": "larks" },
+    { "singular": "lava", "plural": "lavas" },
+    { "singular": "lawn", "plural": "lawns" },
+    { "singular": "lieu", "plural": "lieus" },
+    { "singular": "life", "plural": "lives" },
+    { "singular": "lift", "plural": "lifts" },
+    { "singular": "lime", "plural": "limes" },
+    { "singular": "link", "plural": "links" },
+    { "singular": "lion", "plural": "lions" },
+    { "singular": "lip", "plural": "lips" },
+    { "singular": "list", "plural": "lists" },
+    { "singular": "load", "plural": "loads" },
+    { "singular": "loan", "plural": "loans" },
+    { "singular": "lock", "plural": "locks" },
+    { "singular": "lode", "plural": "lodes" },
+    { "singular": "log", "plural": "logs" },
+    { "singular": "look", "plural": "looks" },
+    { "singular": "loss", "plural": "losses" },
+    { "singular": "lot", "plural": "lots" },
+    { "singular": "love", "plural": "loves" },
+    { "singular": "luck", "plural": "lucks" },
+    { "singular": "lung", "plural": "lungs" },
+    { "singular": "lye", "plural": "lyes" },
+    { "singular": "lynx", "plural": "lynxes" },
+    { "singular": "mama", "plural": "mamas" },
+    { "singular": "man", "plural": "men" },
+    { "singular": "mare", "plural": "mares" },
+    { "singular": "mark", "plural": "marks" },
+    { "singular": "mask", "plural": "masks" },
+    { "singular": "mass", "plural": "masses" },
+    { "singular": "mast", "plural": "masts" },
+    { "singular": "mat", "plural": "mats" },
+    { "singular": "math", "plural": "maths" },
+    { "singular": "max", "plural": "maxes" },
+    { "singular": "meal", "plural": "meals" },
+    { "singular": "meat", "plural": "meats" },
+    { "singular": "meet", "plural": "meets" },
+    { "singular": "meme", "plural": "memes" },
+    { "singular": "memo", "plural": "memos" },
+    { "singular": "menu", "plural": "menus" },
+    { "singular": "mess", "plural": "messes" },
+    { "singular": "mile", "plural": "miles" },
+    { "singular": "milk", "plural": "milks" },
+    { "singular": "mill", "plural": "mills" },
+    { "singular": "mime", "plural": "mimes" },
+    { "singular": "min", "plural": "mins" },
+    { "singular": "mind", "plural": "minds" },
+    { "singular": "mini", "plural": "minis" },
+    { "singular": "mink", "plural": "minks" },
+    { "singular": "mint", "plural": "mints" },
+    { "singular": "mist", "plural": "mists" },
+    { "singular": "mix", "plural": "mixes" },
+    { "singular": "moai", "plural": "moais" },
+    { "singular": "moat", "plural": "moats" },
+    { "singular": "mob", "plural": "mobs" },
+    { "singular": "mode", "plural": "modes" },
+    { "singular": "monk", "plural": "monks" },
+    { "singular": "mood", "plural": "moods" },
+    { "singular": "moon", "plural": "moons" },
+    { "singular": "mud", "plural": "muds" },
+    { "singular": "mug", "plural": "mugs" },
+    { "singular": "mule", "plural": "mules" },
+    { "singular": "myth", "plural": "myths" },
+    { "singular": "nail", "plural": "nails" },
+    { "singular": "name", "plural": "names" },
+    { "singular": "neck", "plural": "necks" },
+    { "singular": "need", "plural": "needs" },
+    { "singular": "net", "plural": "nets" },
+    { "singular": "news", "plural": "news" },
+    { "singular": "node", "plural": "nodes" },
+    { "singular": "note", "plural": "notes" },
+    { "singular": "oak", "plural": "oaks" },
+    { "singular": "oat", "plural": "oats" },
+    { "singular": "obi", "plural": "obis" },
+    { "singular": "ramp", "plural": "ramps" },
+    { "singular": "oil", "plural": "oils" },
+    { "singular": "okra", "plural": "okras" },
+    { "singular": "owl", "plural": "owls" },
+    { "singular": "pace", "plural": "paces" },
+    { "singular": "pad", "plural": "pads" },
+    { "singular": "page", "plural": "pages" },
+    { "singular": "pail", "plural": "pails" },
+    { "singular": "pain", "plural": "pains" },
+    { "singular": "pair", "plural": "pairs" },
+    { "singular": "palm", "plural": "palms" },
+    { "singular": "pan", "plural": "pans" },
+    { "singular": "papa", "plural": "papas" },
+    { "singular": "pard", "plural": "pards" },
+    { "singular": "park", "plural": "parks" },
+    { "singular": "part", "plural": "parts" },
+    { "singular": "pass", "plural": "passes" },
+    { "singular": "pate", "plural": "pates" },
+    { "singular": "path", "plural": "paths" },
+    { "singular": "paw", "plural": "paws" },
+    { "singular": "pay", "plural": "pays" },
+    { "singular": "pea", "plural": "peas" },
+    { "singular": "peak", "plural": "peaks" },
+    { "singular": "peek", "plural": "peeks" },
+    { "singular": "peer", "plural": "peers" },
+    { "singular": "pelt", "plural": "pelts" },
+    { "singular": "pew", "plural": "pews" },
+    { "singular": "pick", "plural": "picks" },
+    { "singular": "pie", "plural": "pies" },
+    { "singular": "pier", "plural": "piers" },
+    { "singular": "pile", "plural": "piles" },
+    { "singular": "pill", "plural": "pills" },
+    { "singular": "pin", "plural": "pins" },
+    { "singular": "pine", "plural": "pines" },
+    { "singular": "pint", "plural": "pints" },
+    { "singular": "pipe", "plural": "pipes" },
+    { "singular": "pit", "plural": "pits" },
+    { "singular": "plan", "plural": "plans" },
+    { "singular": "play", "plural": "plays" },
+    { "singular": "plea", "plural": "pleas" },
+    { "singular": "plot", "plural": "plots" },
+    { "singular": "plug", "plural": "plugs" },
+    { "singular": "plum", "plural": "plums" },
+    { "singular": "pod", "plural": "pods" },
+    { "singular": "poem", "plural": "poems" },
+    { "singular": "poet", "plural": "poets" },
+    { "singular": "pole", "plural": "poles" },
+    { "singular": "polo", "plural": "polos" },
+    { "singular": "pond", "plural": "ponds" },
+    { "singular": "pony", "plural": "ponies" },
+    { "singular": "pool", "plural": "pools" },
+    { "singular": "pop", "plural": "pops" },
+    { "singular": "pork", "plural": "porks" },
+    { "singular": "port", "plural": "ports" },
+    { "singular": "post", "plural": "posts" },
+    { "singular": "pray", "plural": "prays" },
+    { "singular": "prow", "plural": "prows" },
+    { "singular": "pug", "plural": "pugs" },
+    { "singular": "puma", "plural": "pumas" },
+    { "singular": "pump", "plural": "pumps" },
+    { "singular": "pun", "plural": "puns" },
+    { "singular": "pup", "plural": "pups" },
+    { "singular": "pupa", "plural": "pupas" },
+    { "singular": "push", "plural": "pushes" },
+    { "singular": "quit", "plural": "quits" },
+    { "singular": "race", "plural": "races" },
+    { "singular": "rack", "plural": "racks" },
+    { "singular": "raft", "plural": "rafts" },
+    { "singular": "rag", "plural": "rags" },
+    { "singular": "rage", "plural": "rages" },
+    { "singular": "rail", "plural": "rails" },
+    { "singular": "rain", "plural": "rains" },
+    { "singular": "rank", "plural": "ranks" },
+    { "singular": "rate", "plural": "rates" },
+    { "singular": "reef", "plural": "reefs" },
+    { "singular": "rent", "plural": "rents" },
+    { "singular": "rib", "plural": "ribs" },
+    { "singular": "rice", "plural": "rices" },
+    { "singular": "ride", "plural": "rides" },
+    { "singular": "riot", "plural": "riots" },
+    { "singular": "rip", "plural": "rips" },
+    { "singular": "risk", "plural": "risks" },
+    { "singular": "road", "plural": "roads" },
+    { "singular": "robe", "plural": "robes" },
+    { "singular": "ship", "plural": "ships" },
+    { "singular": "role", "plural": "roles" },
+    { "singular": "roll", "plural": "rolls" },
+    { "singular": "roof", "plural": "roofs" },
+    { "singular": "room", "plural": "rooms" },
+    { "singular": "root", "plural": "roots" },
+    { "singular": "rope", "plural": "ropes" },
+    { "singular": "row", "plural": "rows" },
+    { "singular": "ruby", "plural": "rubies" },
+    { "singular": "rug", "plural": "rugs" },
+    { "singular": "ruin", "plural": "ruins" },
+    { "singular": "rule", "plural": "rules" },
+    { "singular": "rust", "plural": "rusts" },
+    { "singular": "rye", "plural": "ryes" },
+    { "singular": "sac", "plural": "sacs" },
+    { "singular": "sack", "plural": "sacks" },
+    { "singular": "sage", "plural": "sages" },
+    { "singular": "sail", "plural": "sails" },
+    { "singular": "sake", "plural": "sakes" },
+    { "singular": "sale", "plural": "sales" },
+    { "singular": "sand", "plural": "sands" },
+    { "singular": "sari", "plural": "saris" },
+    { "singular": "sash", "plural": "sashes" },
+    { "singular": "scam", "plural": "scams" },
+    { "singular": "scow", "plural": "scows" },
+    { "singular": "sea", "plural": "seas" },
+    { "singular": "seal", "plural": "seals" },
+    { "singular": "seat", "plural": "seats" },
+    { "singular": "seed", "plural": "seeds" },
+    { "singular": "seep", "plural": "seeps" },
+    { "singular": "shaw", "plural": "shaws" },
+    { "singular": "shoe", "plural": "shoes" },
+    { "singular": "shop", "plural": "shops" },
+    { "singular": "show", "plural": "shows" },
+    { "singular": "side", "plural": "sides" },
+    { "singular": "silk", "plural": "silks" },
+    { "singular": "sill", "plural": "sills" },
+    { "singular": "sin", "plural": "sins" },
+    { "singular": "sink", "plural": "sinks" },
+    { "singular": "sip", "plural": "sips" },
+    { "singular": "sir", "plural": "sirs" },
+    { "singular": "site", "plural": "sites" },
+    { "singular": "size", "plural": "sizes" },
+    { "singular": "ski", "plural": "skis" },
+    { "singular": "sky", "plural": "skies" },
+    { "singular": "slaw", "plural": "slaws" },
+    { "singular": "slip", "plural": "slips" },
+    { "singular": "slot", "plural": "slots" },
+    { "singular": "smog", "plural": "smogs" },
+    { "singular": "soap", "plural": "soaps" },
+    { "singular": "sock", "plural": "socks" },
+    { "singular": "soil", "plural": "soils" },
+    { "singular": "song", "plural": "songs" },
+    { "singular": "soot", "plural": "soots" },
+    { "singular": "sort", "plural": "sorts" },
+    { "singular": "soul", "plural": "souls" },
+    { "singular": "soup", "plural": "soups" },
+    { "singular": "sow", "plural": "sows" },
+    { "singular": "spat", "plural": "spats" },
+    { "singular": "spot", "plural": "spots" },
+    { "singular": "spud", "plural": "spuds" },
+    { "singular": "stag", "plural": "stags" },
+    { "singular": "star", "plural": "stars" },
+    { "singular": "stem", "plural": "stems" },
+    { "singular": "step", "plural": "steps" },
+    { "singular": "stew", "plural": "stews" },
+    { "singular": "suit", "plural": "suits" },
+    { "singular": "sum", "plural": "sums" },
+    { "singular": "sun", "plural": "suns" },
+    { "singular": "swan", "plural": "swans" },
+    { "singular": "tab", "plural": "tabs" },
+    { "singular": "taco", "plural": "tacos" },
+    { "singular": "tag", "plural": "tags" },
+    { "singular": "tail", "plural": "tails" },
+    { "singular": "tale", "plural": "tales" },
+    { "singular": "talk", "plural": "talks" },
+    { "singular": "tan", "plural": "tans" },
+    { "singular": "tank", "plural": "tanks" },
+    { "singular": "tap", "plural": "taps" },
+    { "singular": "tape", "plural": "tapes" },
+    { "singular": "taro", "plural": "taroes" },
+    { "singular": "tart", "plural": "tarts" },
+    { "singular": "task", "plural": "tasks" },
+    { "singular": "tax", "plural": "taxes" },
+    { "singular": "taxi", "plural": "taxis" },
+    { "singular": "tea", "plural": "teas" },
+    { "singular": "team", "plural": "teams" },
+    { "singular": "tell", "plural": "tells" },
+    { "singular": "temp", "plural": "temps" },
+    { "singular": "tent", "plural": "tents" },
+    { "singular": "term", "plural": "terms" },
+    { "singular": "test", "plural": "tests" },
+    { "singular": "tick", "plural": "ticks" },
+    { "singular": "tile", "plural": "tiles" },
+    { "singular": "till", "plural": "tills" },
+    { "singular": "time", "plural": "times" },
+    { "singular": "tin", "plural": "tins" },
+    { "singular": "tip", "plural": "tips" },
+    { "singular": "tire", "plural": "tires" },
+    { "singular": "toad", "plural": "toads" },
+    { "singular": "tofu", "plural": "tofus" },
+    { "singular": "tog", "plural": "togs" },
+    { "singular": "toga", "plural": "togas" },
+    { "singular": "toll", "plural": "tolls" },
+    { "singular": "tom", "plural": "toms" },
+    { "singular": "tomb", "plural": "tombs" },
+    { "singular": "ton", "plural": "tons" },
+    { "singular": "tone", "plural": "tones" },
+    { "singular": "tool", "plural": "tools" },
+    { "singular": "toot", "plural": "toots" },
+    { "singular": "top", "plural": "tops" },
+    { "singular": "hat", "plural": "hats" },
+    { "singular": "tote", "plural": "totes" },
+    { "singular": "town", "plural": "towns" },
+    { "singular": "tram", "plural": "trams" },
+    { "singular": "trap", "plural": "traps" },
+    { "singular": "tree", "plural": "trees" },
+    { "singular": "trek", "plural": "treks" },
+    { "singular": "trip", "plural": "trips" },
+    { "singular": "tub", "plural": "tubs" },
+    { "singular": "tuba", "plural": "tubas" },
+    { "singular": "tube", "plural": "tubes" },
+    { "singular": "tug", "plural": "tugs" },
+    { "singular": "tuna", "plural": "tuna" },
+    { "singular": "tune", "plural": "tunes" },
+    { "singular": "turn", "plural": "turns" },
+    { "singular": "tusk", "plural": "tusks" },
+    { "singular": "tutu", "plural": "tutus" },
+    { "singular": "type", "plural": "types" },
+    { "singular": "unit", "plural": "units" },
+    { "singular": "use", "plural": "uses" },
+    { "singular": "user", "plural": "users" },
+    { "singular": "van", "plural": "vans" },
+    { "singular": "vane", "plural": "vanes" },
+    { "singular": "vase", "plural": "vases" },
+    { "singular": "vein", "plural": "veins" },
+    { "singular": "verb", "plural": "verbs" },
+    { "singular": "vet", "plural": "vets" },
+    { "singular": "veto", "plural": "vetoes" },
+    { "singular": "vice", "plural": "vices" },
+    { "singular": "view", "plural": "views" },
+    { "singular": "vol", "plural": "vols" },
+    { "singular": "vote", "plural": "votes" },
+    { "singular": "wage", "plural": "wages" },
+    { "singular": "wash", "plural": "washes" },
+    { "singular": "wasp", "plural": "wasps" },
+    { "singular": "way", "plural": "ways" },
+    { "singular": "web", "plural": "webs" },
+    { "singular": "week", "plural": "weeks" },
+    { "singular": "wick", "plural": "wicks" },
+    { "singular": "wifi", "plural": "wifis" },
+    { "singular": "win", "plural": "wins" },
+    { "singular": "wind", "plural": "winds" },
+    { "singular": "wine", "plural": "wines" },
+    { "singular": "wink", "plural": "winks" },
+    { "singular": "wire", "plural": "wires" },
+    { "singular": "wit", "plural": "wits" },
+    { "singular": "wok", "plural": "woks" },
+    { "singular": "wolf", "plural": "wolves" },
+    { "singular": "wont", "plural": "wonts" },
+    { "singular": "wood", "plural": "woods" },
+    { "singular": "word", "plural": "words" },
+    { "singular": "work", "plural": "works" },
+    { "singular": "wrap", "plural": "wraps" },
+    { "singular": "yak", "plural": "yaks" },
+    { "singular": "yam", "plural": "yams" },
+    { "singular": "yarn", "plural": "yarns" },
+    { "singular": "year", "plural": "years" },
+    { "singular": "yin", "plural": "yins" },
+    { "singular": "yoga", "plural": "yogas" },
+    { "singular": "zinc", "plural": "zincs" },
+    { "singular": "zoo", "plural": "zoos" },
+    { "singular": "zoot", "plural": "zoots" }
+  ],
+  "verbs": [
+    {
+      "present": "hodl",
+      "past": "hodled",
+      "past_participle": "hodled",
+      "third": "hodles",
+      "participle": "hodling"
+    },
+    {
+      "present": "fud",
+      "past": "fud",
+      "past_participle": "fud",
+      "third": "fud",
+      "participle": "fud"
+    },
+    {
+      "present": "ICO",
+      "past": "ICOed",
+      "past_participle": "ICOed",
+      "third": "ICO",
+      "participle": "ICOing"
+    },
+    {
+      "present": "buidl",
+      "past": "buidled",
+      "past_participle": "buidled",
+      "third": "buidl",
+      "participle": "buidling"
+    },
+    {
+      "present": "rug",
+      "past": "rugged",
+      "past_participle": "rugged",
+      "third": "rug",
+      "participle": "rugging"
+    },
+    {
+      "present": "rugpull",
+      "past": "rugpulled",
+      "past_participle": "rugpulled",
+      "third": "rugpull",
+      "participle": "rugpulling"
+    },
+    {
+      "present": "dox",
+      "past": "doxxed",
+      "past_participle": "doxxed",
+      "third": "doxxed",
+      "participle": "doxxing"
+    },
+    {
+      "present": "ache",
+      "past": "ached",
+      "past_participle": "ached",
+      "third": "aches",
+      "participle": "aching"
+    },
+    {
+      "present": "act",
+      "past": "acted",
+      "past_participle": "acted",
+      "third": "acts",
+      "participle": "acting"
+    },
+    {
+      "present": "add",
+      "past": "added",
+      "past_participle": "added",
+      "third": "adds",
+      "participle": "adding"
+    },
+    {
+      "present": "ask",
+      "past": "asked",
+      "past_participle": "asked",
+      "third": "asks",
+      "participle": "asking"
+    },
+    {
+      "present": "bang",
+      "past": "banged",
+      "past_participle": "banged",
+      "third": "bangs",
+      "participle": "banging"
+    },
+    {
+      "present": "bat",
+      "past": "batted",
+      "past_participle": "batted",
+      "third": "bats",
+      "participle": "batting"
+    },
+    {
+      "present": "bear",
+      "past": "bore",
+      "past_participle": "born",
+      "third": "bears",
+      "participle": "bearing"
+    },
+    {
+      "present": "bear",
+      "past": "bore",
+      "past_participle": "borne",
+      "third": "bears",
+      "participle": "bearing"
+    },
+    {
+      "present": "beg",
+      "past": "begged",
+      "past_participle": "begged",
+      "third": "begs",
+      "participle": "begging"
+    },
+    {
+      "present": "bet",
+      "past": "bet",
+      "past_participle": "bet",
+      "third": "bets",
+      "participle": "betting"
+    },
+    {
+      "present": "bid",
+      "past": "bade",
+      "past_participle": "bidden",
+      "third": "bids",
+      "participle": "bidding"
+    },
+    {
+      "present": "bid",
+      "past": "bid",
+      "past_participle": "bid",
+      "third": "bids",
+      "participle": "bidding"
+    },
+    {
+      "present": "bind",
+      "past": "bound",
+      "past_participle": "bound",
+      "third": "binds",
+      "participle": "binding"
+    },
+    {
+      "present": "bite",
+      "past": "bit",
+      "past_participle": "bitten",
+      "third": "bites",
+      "participle": "biting"
+    },
+    {
+      "present": "blur",
+      "past": "blurred",
+      "past_participle": "blurred",
+      "third": "blurs",
+      "participle": "blurring"
+    },
+    {
+      "present": "boil",
+      "past": "boiled",
+      "past_participle": "boiled",
+      "third": "boils",
+      "participle": "boiling"
+    },
+    {
+      "present": "bow",
+      "past": "bowed",
+      "past_participle": "bowed",
+      "third": "bows",
+      "participle": "bowing"
+    },
+    {
+      "present": "box",
+      "past": "boxed",
+      "past_participle": "boxed",
+      "third": "boxes",
+      "participle": "boxing"
+    },
+    {
+      "present": "bray",
+      "past": "brayed",
+      "past_participle": "brayed",
+      "third": "brays",
+      "participle": "braying"
+    },
+    {
+      "present": "burn",
+      "past": "burnt",
+      "past_participle": "burnt",
+      "third": "burns",
+      "participle": "burning"
+    },
+    {
+      "present": "bury",
+      "past": "buried",
+      "past_participle": "buried",
+      "third": "buries",
+      "participle": "burying"
+    },
+    {
+      "present": "bust",
+      "past": "bust",
+      "past_participle": "bust",
+      "third": "busts",
+      "participle": "busting"
+    },
+    {
+      "present": "buy",
+      "past": "bought",
+      "past_participle": "bought",
+      "third": "buys",
+      "participle": "buying"
+    },
+    {
+      "present": "call",
+      "past": "called",
+      "past_participle": "called",
+      "third": "calls",
+      "participle": "calling"
+    },
+    {
+      "present": "cash",
+      "past": "cashed",
+      "past_participle": "cashed",
+      "third": "cashes",
+      "participle": "cashing"
+    },
+    {
+      "present": "cast",
+      "past": "cast",
+      "past_participle": "cast",
+      "third": "casts",
+      "participle": "casting"
+    },
+    {
+      "present": "chat",
+      "past": "chatted",
+      "past_participle": "chatted",
+      "third": "chats",
+      "participle": "chatting"
+    },
+    {
+      "present": "chew",
+      "past": "chewed",
+      "past_participle": "chewed",
+      "third": "chews",
+      "participle": "chewing"
+    },
+    {
+      "present": "chip",
+      "past": "chipped",
+      "past_participle": "chipped",
+      "third": "chips",
+      "participle": "chipping"
+    },
+    {
+      "present": "come",
+      "past": "came",
+      "past_participle": "come",
+      "third": "comes",
+      "participle": "coming"
+    },
+    {
+      "present": "coo",
+      "past": "cooed",
+      "past_participle": "cooed",
+      "third": "coos",
+      "participle": "cooing"
+    },
+    {
+      "present": "cook",
+      "past": "cooked",
+      "past_participle": "cooked",
+      "third": "cooks",
+      "participle": "cooking"
+    },
+    {
+      "present": "cool",
+      "past": "cooled",
+      "past_participle": "cooled",
+      "third": "cools",
+      "participle": "cooling"
+    },
+    {
+      "present": "cope",
+      "past": "coped",
+      "past_participle": "cope",
+      "third": "copes",
+      "participle": "coping"
+    },
+    {
+      "present": "copy",
+      "past": "copied",
+      "past_participle": "copied",
+      "third": "copies",
+      "participle": "copying"
+    },
+    {
+      "present": "cost",
+      "past": "cost",
+      "past_participle": "cost",
+      "third": "costs",
+      "participle": "costing"
+    },
+    {
+      "present": "crib",
+      "past": "cribbed",
+      "past_participle": "cribbed",
+      "third": "cribs",
+      "participle": "cribbing"
+    },
+    {
+      "present": "cry",
+      "past": "cried",
+      "past_participle": "cried",
+      "third": "cries",
+      "participle": "crying"
+    },
+    {
+      "present": "curb",
+      "past": "curbed",
+      "past_participle": "curbed",
+      "third": "curbs",
+      "participle": "curbing"
+    },
+    {
+      "present": "cure",
+      "past": "cured",
+      "past_participle": "cured",
+      "third": "cures",
+      "participle": "curing"
+    },
+    {
+      "present": "cut",
+      "past": "cut",
+      "past_participle": "cut",
+      "third": "cuts",
+      "participle": "cutting"
+    },
+    {
+      "present": "damp",
+      "past": "damped",
+      "past_participle": "damped",
+      "third": "damps",
+      "participle": "damping"
+    },
+    {
+      "present": "dare",
+      "past": "dared",
+      "past_participle": "dared",
+      "third": "dares",
+      "participle": "daring"
+    },
+    {
+      "present": "dash",
+      "past": "dashed",
+      "past_participle": "dashed",
+      "third": "dashes",
+      "participle": "dashing"
+    },
+    {
+      "present": "deal",
+      "past": "dealt",
+      "past_participle": "dealt",
+      "third": "deals",
+      "participle": "dealing"
+    },
+    {
+      "present": "deny",
+      "past": "denied",
+      "past_participle": "denied",
+      "third": "denies",
+      "participle": "denying"
+    },
+    {
+      "present": "dig",
+      "past": "dug",
+      "past_participle": "dug",
+      "third": "digs",
+      "participle": "digging"
+    },
+    {
+      "present": "dim",
+      "past": "dimmed",
+      "past_participle": "dimmed",
+      "third": "dims",
+      "participle": "dimming"
+    },
+    {
+      "present": "dine",
+      "past": "dined",
+      "past_participle": "dined",
+      "third": "dines",
+      "participle": "dining"
+    },
+    {
+      "present": "dip",
+      "past": "dipped",
+      "past_participle": "dipped",
+      "third": "dips",
+      "participle": "dipping"
+    },
+    {
+      "present": "dive",
+      "past": "dived",
+      "past_participle": "dived",
+      "third": "dives",
+      "participle": "diving"
+    },
+    {
+      "present": "do",
+      "past": "did",
+      "past_participle": "done",
+      "third": "does",
+      "participle": "doing"
+    },
+    {
+      "present": "drag",
+      "past": "dragged",
+      "past_participle": "dragged",
+      "third": "drags",
+      "participle": "dragging"
+    },
+    {
+      "present": "draw",
+      "past": "drew",
+      "past_participle": "drawn",
+      "third": "draws",
+      "participle": "drawing"
+    },
+    {
+      "present": "drop",
+      "past": "dropped",
+      "past_participle": "dropped",
+      "third": "drops",
+      "participle": "dropping"
+    },
+    {
+      "present": "dry",
+      "past": "dried",
+      "past_participle": "dried",
+      "third": "dries",
+      "participle": "drying"
+    },
+    {
+      "present": "dump",
+      "past": "dumped",
+      "past_participle": "dumped",
+      "third": "dumps",
+      "participle": "dumping"
+    },
+    {
+      "present": "dye",
+      "past": "dyed",
+      "past_participle": "dyed",
+      "third": "dyes",
+      "participle": "dyeing"
+    },
+    {
+      "present": "earn",
+      "past": "earned",
+      "past_participle": "earned",
+      "third": "earns",
+      "participle": "earning"
+    },
+    {
+      "present": "eat",
+      "past": "ate",
+      "past_participle": "eaten",
+      "third": "eats",
+      "participle": "eating"
+    },
+    {
+      "present": "envy",
+      "past": "envied",
+      "past_participle": "envied",
+      "third": "envies",
+      "participle": "envying"
+    },
+    {
+      "present": "eye",
+      "past": "eyed",
+      "past_participle": "eyed",
+      "third": "eyes",
+      "participle": "eyeing"
+    },
+    {
+      "present": "fail",
+      "past": "failed",
+      "past_participle": "failed",
+      "third": "fails",
+      "participle": "failing"
+    },
+    {
+      "present": "fall",
+      "past": "fell",
+      "past_participle": "fallen",
+      "third": "falls",
+      "participle": "falling"
+    },
+    {
+      "present": "fan",
+      "past": "fanned",
+      "past_participle": "fanned",
+      "third": "fans",
+      "participle": "fanning"
+    },
+    {
+      "present": "fax",
+      "past": "faxed",
+      "past_participle": "faxed",
+      "third": "faxes",
+      "participle": "faxing"
+    },
+    {
+      "present": "feed",
+      "past": "fed",
+      "past_participle": "fed",
+      "third": "feeds",
+      "participle": "feeding"
+    },
+    {
+      "present": "feel",
+      "past": "felt",
+      "past_participle": "felt",
+      "third": "feels",
+      "participle": "feeling"
+    },
+    {
+      "present": "fill",
+      "past": "filled",
+      "past_participle": "filled",
+      "third": "fills",
+      "participle": "filling"
+    },
+    {
+      "present": "find",
+      "past": "found",
+      "past_participle": "found",
+      "third": "finds",
+      "participle": "finding"
+    },
+    {
+      "present": "fish",
+      "past": "fished",
+      "past_participle": "fished",
+      "third": "fishes",
+      "participle": "fishing"
+    },
+    {
+      "present": "fix",
+      "past": "fixed",
+      "past_participle": "fixed",
+      "third": "fixes",
+      "participle": "fixing"
+    },
+    {
+      "present": "fizz",
+      "past": "fizzed",
+      "past_participle": "fizzed",
+      "third": "fizzes",
+      "participle": "fizzing"
+    },
+    {
+      "present": "flap",
+      "past": "flapped",
+      "past_participle": "flapped",
+      "third": "flaps",
+      "participle": "flapping"
+    },
+    {
+      "present": "flee",
+      "past": "fled",
+      "past_participle": "fled",
+      "third": "flees",
+      "participle": "fleeing"
+    },
+    {
+      "present": "flop",
+      "past": "flopped",
+      "past_participle": "flopped",
+      "third": "flops",
+      "participle": "flopping"
+    },
+    {
+      "present": "fly",
+      "past": "flew",
+      "past_participle": "flown",
+      "third": "flies",
+      "participle": "flying"
+    },
+    {
+      "present": "fold",
+      "past": "folded",
+      "past_participle": "folded",
+      "third": "folds",
+      "participle": "folding"
+    },
+    {
+      "present": "form",
+      "past": "formed",
+      "past_participle": "formed",
+      "third": "forms",
+      "participle": "forming"
+    },
+    {
+      "present": "free",
+      "past": "freed",
+      "past_participle": "freed",
+      "third": "frees",
+      "participle": "freeing"
+    },
+    {
+      "present": "fry",
+      "past": "fried",
+      "past_participle": "fried",
+      "third": "fries",
+      "participle": "frying"
+    },
+    {
+      "present": "gain",
+      "past": "gained",
+      "past_participle": "gained",
+      "third": "gains",
+      "participle": "gaining"
+    },
+    {
+      "present": "gash",
+      "past": "gashed",
+      "past_participle": "gashed",
+      "third": "gashes",
+      "participle": "gashing"
+    },
+    {
+      "present": "gaze",
+      "past": "gazed",
+      "past_participle": "gazed",
+      "third": "gazes",
+      "participle": "gazing"
+    },
+    {
+      "present": "get",
+      "past": "got",
+      "past_participle": "got",
+      "third": "gets",
+      "participle": "getting"
+    },
+    {
+      "present": "give",
+      "past": "gave",
+      "past_participle": "given",
+      "third": "gives",
+      "participle": "giving"
+    },
+    {
+      "present": "glow",
+      "past": "glowed",
+      "past_participle": "glowed",
+      "third": "glows",
+      "participle": "glowing"
+    },
+    {
+      "present": "go",
+      "past": "went",
+      "past_participle": "gone",
+      "third": "goes",
+      "participle": "going"
+    },
+    {
+      "present": "grab",
+      "past": "grabbed",
+      "past_participle": "grabbed",
+      "third": "grabs",
+      "participle": "grabbing"
+    },
+    {
+      "present": "grip",
+      "past": "gripped",
+      "past_participle": "gripped",
+      "third": "grips",
+      "participle": "gripping"
+    },
+    {
+      "present": "grow",
+      "past": "grew",
+      "past_participle": "grown",
+      "third": "grows",
+      "participle": "growing"
+    },
+    {
+      "present": "hang",
+      "past": "hung",
+      "past_participle": "hung",
+      "third": "hangs",
+      "participle": "hanging"
+    },
+    {
+      "present": "harm",
+      "past": "harmed",
+      "past_participle": "harmed",
+      "third": "harms",
+      "participle": "harming"
+    },
+    {
+      "present": "have",
+      "past": "had",
+      "past_participle": "had",
+      "third": "has",
+      "participle": "having"
+    },
+    {
+      "present": "heal",
+      "past": "healed",
+      "past_participle": "healed",
+      "third": "heals",
+      "participle": "healing"
+    },
+    {
+      "present": "hear",
+      "past": "heard",
+      "past_participle": "heard",
+      "third": "hears",
+      "participle": "hearing"
+    },
+    {
+      "present": "help",
+      "past": "helped",
+      "past_participle": "helped",
+      "third": "helps",
+      "participle": "helping"
+    },
+    {
+      "present": "hew",
+      "past": "hewed",
+      "past_participle": "hewn",
+      "third": "hews",
+      "participle": "hewing"
+    },
+    {
+      "present": "hide",
+      "past": "hid",
+      "past_participle": "hidden",
+      "third": "hides",
+      "participle": "hiding"
+    },
+    {
+      "present": "hiss",
+      "past": "hissed",
+      "past_participle": "hissed",
+      "third": "hisses",
+      "participle": "hissing"
+    },
+    {
+      "present": "hit",
+      "past": "hit",
+      "past_participle": "hit",
+      "third": "hits",
+      "participle": "hitting"
+    },
+    {
+      "present": "hoax",
+      "past": "hoaxed",
+      "past_participle": "hoaxed",
+      "third": "hoaxes",
+      "participle": "hoaxing"
+    },
+    {
+      "present": "hold",
+      "past": "held",
+      "past_participle": "held",
+      "third": "holds",
+      "participle": "holding"
+    },
+    {
+      "present": "hop",
+      "past": "hopped",
+      "past_participle": "hopped",
+      "third": "hops",
+      "participle": "hopping"
+    },
+    {
+      "present": "hope",
+      "past": "hoped",
+      "past_participle": "hoped",
+      "third": "hopes",
+      "participle": "hoping"
+    },
+    {
+      "present": "hug",
+      "past": "hugged",
+      "past_participle": "hugged",
+      "third": "hugs",
+      "participle": "hugging"
+    },
+    {
+      "present": "hum",
+      "past": "hummed",
+      "past_participle": "hummed",
+      "third": "hums",
+      "participle": "humming"
+    },
+    {
+      "present": "hunt",
+      "past": "hunted",
+      "past_participle": "hunted",
+      "third": "hunts",
+      "participle": "hunting"
+    },
+    {
+      "present": "hurl",
+      "past": "hurled",
+      "past_participle": "hurled",
+      "third": "hurls",
+      "participle": "hurling"
+    },
+    {
+      "present": "hurt",
+      "past": "hurt",
+      "past_participle": "hurt",
+      "third": "hurts",
+      "participle": "hurting"
+    },
+    {
+      "present": "hush",
+      "past": "hushed",
+      "past_participle": "hushed",
+      "third": "hushes",
+      "participle": "hushing"
+    },
+    {
+      "present": "join",
+      "past": "joined",
+      "past_participle": "joined",
+      "third": "joins",
+      "participle": "joining"
+    },
+    {
+      "present": "jump",
+      "past": "jumped",
+      "past_participle": "jumped",
+      "third": "jumps",
+      "participle": "jumping"
+    },
+    {
+      "present": "keep",
+      "past": "kept",
+      "past_participle": "kept",
+      "third": "keeps",
+      "participle": "keeping"
+    },
+    {
+      "present": "kick",
+      "past": "kicked",
+      "past_participle": "kicked",
+      "third": "kicks",
+      "participle": "kicking"
+    },
+    {
+      "present": "kid",
+      "past": "kidded",
+      "past_participle": "kidded",
+      "third": "kids",
+      "participle": "kidding"
+    },
+    {
+      "present": "kiss",
+      "past": "kissed",
+      "past_participle": "kissed",
+      "third": "kisses",
+      "participle": "kissing"
+    },
+    {
+      "present": "knit",
+      "past": "knit",
+      "past_participle": "knit",
+      "third": "knits",
+      "participle": "knitting"
+    },
+    {
+      "present": "know",
+      "past": "knew",
+      "past_participle": "known",
+      "third": "knows",
+      "participle": "knowing"
+    },
+    {
+      "present": "lade",
+      "past": "laded",
+      "past_participle": "laden",
+      "third": "lades",
+      "participle": "lading"
+    },
+    {
+      "present": "land",
+      "past": "landed",
+      "past_participle": "landed",
+      "third": "lands",
+      "participle": "landing"
+    },
+    {
+      "present": "last",
+      "past": "lasted",
+      "past_participle": "lasted",
+      "third": "lasts",
+      "participle": "lasting"
+    },
+    {
+      "present": "lay",
+      "past": "laid",
+      "past_participle": "laid",
+      "third": "lays",
+      "participle": "laying"
+    },
+    {
+      "present": "lead",
+      "past": "led",
+      "past_participle": "led",
+      "third": "leads",
+      "participle": "leading"
+    },
+    {
+      "present": "leak",
+      "past": "leaked",
+      "past_participle": "leaked",
+      "third": "leaks",
+      "participle": "leaking"
+    },
+    {
+      "present": "lean",
+      "past": "leant",
+      "past_participle": "leant",
+      "third": "leans",
+      "participle": "leaning"
+    },
+    {
+      "present": "leap",
+      "past": "leapt",
+      "past_participle": "leapt",
+      "third": "leaps",
+      "participle": "leaping"
+    },
+    {
+      "present": "leer",
+      "past": "leered",
+      "past_participle": "leered",
+      "third": "leers",
+      "participle": "leering"
+    },
+    {
+      "present": "lend",
+      "past": "lent",
+      "past_participle": "lent",
+      "third": "lends",
+      "participle": "lending"
+    },
+    {
+      "present": "let",
+      "past": "let",
+      "past_participle": "let",
+      "third": "lets",
+      "participle": "letting"
+    },
+    {
+      "present": "lie",
+      "past": "lied",
+      "past_participle": "lied",
+      "third": "lies",
+      "participle": "lying"
+    },
+    {
+      "present": "lift",
+      "past": "lifted",
+      "past_participle": "lifted",
+      "third": "lifts",
+      "participle": "lifting"
+    },
+    {
+      "present": "like",
+      "past": "liked",
+      "past_participle": "liked",
+      "third": "likes",
+      "participle": "liking"
+    },
+    {
+      "present": "limp",
+      "past": "limped",
+      "past_participle": "limped",
+      "third": "limps",
+      "participle": "limping"
+    },
+    {
+      "present": "live",
+      "past": "lived",
+      "past_participle": "lived",
+      "third": "lives",
+      "participle": "living"
+    },
+    {
+      "present": "look",
+      "past": "looked",
+      "past_participle": "looked",
+      "third": "looks",
+      "participle": "looking"
+    },
+    {
+      "present": "lose",
+      "past": "lost",
+      "past_participle": "lost",
+      "third": "loses",
+      "participle": "losing"
+    },
+    {
+      "present": "love",
+      "past": "loved",
+      "past_participle": "loved",
+      "third": "loves",
+      "participle": "loving"
+    },
+    {
+      "present": "make",
+      "past": "made",
+      "past_participle": "made",
+      "third": "makes",
+      "participle": "making"
+    },
+    {
+      "present": "mark",
+      "past": "marked",
+      "past_participle": "marked",
+      "third": "marks",
+      "participle": "marking"
+    },
+    {
+      "present": "mash",
+      "past": "mashed",
+      "past_participle": "mashed",
+      "third": "mashes",
+      "participle": "mashing"
+    },
+    {
+      "present": "mean",
+      "past": "meant",
+      "past_participle": "meant",
+      "third": "means",
+      "participle": "meaning"
+    },
+    {
+      "present": "meet",
+      "past": "met",
+      "past_participle": "met",
+      "third": "meets",
+      "participle": "meeting"
+    },
+    {
+      "present": "melt",
+      "past": "melted",
+      "past_participle": "melted",
+      "third": "melts",
+      "participle": "melting"
+    },
+    {
+      "present": "mew",
+      "past": "mewed",
+      "past_participle": "mewed",
+      "third": "mews",
+      "participle": "mewing"
+    },
+    {
+      "present": "milk",
+      "past": "milked",
+      "past_participle": "milked",
+      "third": "milks",
+      "participle": "milking"
+    },
+    {
+      "present": "mind",
+      "past": "minded",
+      "past_participle": "minded",
+      "third": "minds",
+      "participle": "minding"
+    },
+    {
+      "present": "miss",
+      "past": "missed",
+      "past_participle": "missed",
+      "third": "misses",
+      "participle": "missing"
+    },
+    {
+      "present": "mix",
+      "past": "mixed",
+      "past_participle": "mixed",
+      "third": "mixes",
+      "participle": "mixing"
+    },
+    {
+      "present": "moan",
+      "past": "moaned",
+      "past_participle": "moaned",
+      "third": "moans",
+      "participle": "moaning"
+    },
+    {
+      "present": "moo",
+      "past": "mooed",
+      "past_participle": "mooed",
+      "third": "moos",
+      "participle": "mooing"
+    },
+    {
+      "present": "move",
+      "past": "moved",
+      "past_participle": "moved",
+      "third": "moves",
+      "participle": "moving"
+    },
+    {
+      "present": "mow",
+      "past": "mowed",
+      "past_participle": "mown",
+      "third": "mows",
+      "participle": "mowing"
+    },
+    {
+      "present": "nail",
+      "past": "nailed",
+      "past_participle": "nailed",
+      "third": "nails",
+      "participle": "nailing"
+    },
+    {
+      "present": "nap",
+      "past": "napped",
+      "past_participle": "napped",
+      "third": "naps",
+      "participle": "napping"
+    },
+    {
+      "present": "need",
+      "past": "needed",
+      "past_participle": "needed",
+      "third": "needs",
+      "participle": "needing"
+    },
+    {
+      "present": "nip",
+      "past": "nipped",
+      "past_participle": "nipped",
+      "third": "nips",
+      "participle": "nipping"
+    },
+    {
+      "present": "nod",
+      "past": "nodded",
+      "past_participle": "nodded",
+      "third": "nods",
+      "participle": "nodding"
+    },
+    {
+      "present": "note",
+      "past": "noted",
+      "past_participle": "noted",
+      "third": "notes",
+      "participle": "noting"
+    },
+    {
+      "present": "obey",
+      "past": "obeyed",
+      "past_participle": "obeyed",
+      "third": "obeys",
+      "participle": "obeying"
+    },
+    {
+      "present": "omit",
+      "past": "omitted",
+      "past_participle": "omitted",
+      "third": "omits",
+      "participle": "omitting"
+    },
+    {
+      "present": "ooze",
+      "past": "oozed",
+      "past_participle": "oozed",
+      "third": "oozes",
+      "participle": "oozing"
+    },
+    {
+      "present": "open",
+      "past": "opened",
+      "past_participle": "opened",
+      "third": "opens",
+      "participle": "opening"
+    },
+    {
+      "present": "opt",
+      "past": "opted",
+      "past_participle": "opted",
+      "third": "opts",
+      "participle": "opting"
+    },
+    {
+      "present": "owe",
+      "past": "owed",
+      "past_participle": "owed",
+      "third": "owes",
+      "participle": "owing"
+    },
+    {
+      "present": "own",
+      "past": "owned",
+      "past_participle": "owned",
+      "third": "owns",
+      "participle": "owning"
+    },
+    {
+      "present": "part",
+      "past": "parted",
+      "past_participle": "parted",
+      "third": "parts",
+      "participle": "parting"
+    },
+    {
+      "present": "pass",
+      "past": "passed",
+      "past_participle": "passed",
+      "third": "passes",
+      "participle": "passing"
+    },
+    {
+      "present": "pat",
+      "past": "patted",
+      "past_participle": "patted",
+      "third": "pats",
+      "participle": "patting"
+    },
+    {
+      "present": "pay",
+      "past": "paid",
+      "past_participle": "paid",
+      "third": "pays",
+      "participle": "paying"
+    },
+    {
+      "present": "peep",
+      "past": "peeped",
+      "past_participle": "peeped",
+      "third": "peeps",
+      "participle": "peeping"
+    },
+    {
+      "present": "plan",
+      "past": "planned",
+      "past_participle": "planned",
+      "third": "plans",
+      "participle": "planning"
+    },
+    {
+      "present": "play",
+      "past": "played",
+      "past_participle": "played",
+      "third": "plays",
+      "participle": "playing"
+    },
+    {
+      "present": "plod",
+      "past": "plodded",
+      "past_participle": "plodded",
+      "third": "plods",
+      "participle": "plodding"
+    },
+    {
+      "present": "plot",
+      "past": "plotted",
+      "past_participle": "plotted",
+      "third": "plots",
+      "participle": "plotting"
+    },
+    {
+      "present": "ply",
+      "past": "plied",
+      "past_participle": "plied",
+      "third": "plies",
+      "participle": "plying"
+    },
+    {
+      "present": "pour",
+      "past": "poured",
+      "past_participle": "poured",
+      "third": "pours",
+      "participle": "pouring"
+    },
+    {
+      "present": "pout",
+      "past": "pouted",
+      "past_participle": "pouted",
+      "third": "pouts",
+      "participle": "pouting"
+    },
+    {
+      "present": "pray",
+      "past": "prayed",
+      "past_participle": "prayed",
+      "third": "prays",
+      "participle": "praying"
+    },
+    {
+      "present": "pull",
+      "past": "pulled",
+      "past_participle": "pulled",
+      "third": "pulls",
+      "participle": "pulling"
+    },
+    {
+      "present": "push",
+      "past": "pushed",
+      "past_participle": "pushed",
+      "third": "pushes",
+      "participle": "pushing"
+    },
+    {
+      "present": "put",
+      "past": "put",
+      "past_participle": "put",
+      "third": "puts",
+      "participle": "putting"
+    },
+    {
+      "present": "quit",
+      "past": "quit",
+      "past_participle": "quit",
+      "third": "quits",
+      "participle": "quitting"
+    },
+    {
+      "present": "race",
+      "past": "raced",
+      "past_participle": "raced",
+      "third": "races",
+      "participle": "racing"
+    },
+    {
+      "present": "rain",
+      "past": "rained",
+      "past_participle": "rained",
+      "third": "rains",
+      "participle": "raining"
+    },
+    {
+      "present": "read",
+      "past": "read",
+      "past_participle": "read",
+      "third": "reads",
+      "participle": "reading"
+    },
+    {
+      "present": "redo",
+      "past": "redid",
+      "past_participle": "redone",
+      "third": "redoes",
+      "participle": "redoing"
+    },
+    {
+      "present": "rely",
+      "past": "relied",
+      "past_participle": "relied",
+      "third": "relies",
+      "participle": "relying"
+    },
+    {
+      "present": "rend",
+      "past": "rent",
+      "past_participle": "rent",
+      "third": "rends",
+      "participle": "rending"
+    },
+    {
+      "present": "rest",
+      "past": "rested",
+      "past_participle": "rested",
+      "third": "rests",
+      "participle": "resting"
+    },
+    {
+      "present": "rid",
+      "past": "rid",
+      "past_participle": "rid",
+      "third": "rids",
+      "participle": "ridding"
+    },
+    {
+      "present": "ride",
+      "past": "rode",
+      "past_participle": "ridden",
+      "third": "rides",
+      "participle": "riding"
+    },
+    {
+      "present": "ring",
+      "past": "rang",
+      "past_participle": "rung",
+      "third": "rings",
+      "participle": "ringing"
+    },
+    {
+      "present": "rise",
+      "past": "rose",
+      "past_participle": "risen",
+      "third": "rises",
+      "participle": "rising"
+    },
+    {
+      "present": "roar",
+      "past": "roared",
+      "past_participle": "roared",
+      "third": "roars",
+      "participle": "roaring"
+    },
+    {
+      "present": "rob",
+      "past": "robbed",
+      "past_participle": "robbed",
+      "third": "robs",
+      "participle": "robbing"
+    },
+    {
+      "present": "roll",
+      "past": "rolled",
+      "past_participle": "rolled",
+      "third": "rolls",
+      "participle": "rolling"
+    },
+    {
+      "present": "rot",
+      "past": "rotted",
+      "past_participle": "rotted",
+      "third": "rots",
+      "participle": "rotting"
+    },
+    {
+      "present": "rub",
+      "past": "rubbed",
+      "past_participle": "rubbed",
+      "third": "rubs",
+      "participle": "rubbing"
+    },
+    {
+      "present": "rule",
+      "past": "ruled",
+      "past_participle": "ruled",
+      "third": "rules",
+      "participle": "ruling"
+    },
+    {
+      "present": "run",
+      "past": "ran",
+      "past_participle": "run",
+      "third": "runs",
+      "participle": "running"
+    },
+    {
+      "present": "rush",
+      "past": "rushed",
+      "past_participle": "rushed",
+      "third": "rushes",
+      "participle": "rushing"
+    },
+    {
+      "present": "sack",
+      "past": "sacked",
+      "past_participle": "sacked",
+      "third": "sacks",
+      "participle": "sacking"
+    },
+    {
+      "present": "sag",
+      "past": "sagged",
+      "past_participle": "sagged",
+      "third": "sags",
+      "participle": "sagging"
+    },
+    {
+      "present": "sail",
+      "past": "sailed",
+      "past_participle": "sailed",
+      "third": "sails",
+      "participle": "sailing"
+    },
+    {
+      "present": "sap",
+      "past": "sapped",
+      "past_participle": "sapped",
+      "third": "saps",
+      "participle": "sapping"
+    },
+    {
+      "present": "sash",
+      "past": "sashed",
+      "past_participle": "sashed",
+      "third": "sashes",
+      "participle": "sashing"
+    },
+    {
+      "present": "sass",
+      "past": "sassed",
+      "past_participle": "sassed",
+      "third": "sasses",
+      "participle": "sassing"
+    },
+    {
+      "present": "sate",
+      "past": "sated",
+      "past_participle": "sated",
+      "third": "sates",
+      "participle": "sating"
+    },
+    {
+      "present": "save",
+      "past": "saved",
+      "past_participle": "saved",
+      "third": "saves",
+      "participle": "saving"
+    },
+    {
+      "present": "saw",
+      "past": "sawed",
+      "past_participle": "sawn",
+      "third": "saws",
+      "participle": "sawing"
+    },
+    {
+      "present": "say",
+      "past": "said",
+      "past_participle": "said",
+      "third": "says",
+      "participle": "saying"
+    },
+    {
+      "present": "scab",
+      "past": "scabbed",
+      "past_participle": "scabbed",
+      "third": "scabs",
+      "participle": "scabbing"
+    },
+    {
+      "present": "scam",
+      "past": "scammed",
+      "past_participle": "scammed",
+      "third": "scams",
+      "participle": "scamming"
+    },
+    {
+      "present": "scan",
+      "past": "scanned",
+      "past_participle": "scanned",
+      "third": "scans",
+      "participle": "scanning"
+    },
+    {
+      "present": "scar",
+      "past": "scarred",
+      "past_participle": "scarred",
+      "third": "scars",
+      "participle": "scarring"
+    },
+    {
+      "present": "scat",
+      "past": "scatted",
+      "past_participle": "scatted",
+      "third": "scats",
+      "participle": "scatting"
+    },
+    {
+      "present": "seat",
+      "past": "seated",
+      "past_participle": "seated",
+      "third": "seats",
+      "participle": "seating"
+    },
+    {
+      "present": "see",
+      "past": "saw",
+      "past_participle": "seen",
+      "third": "sees",
+      "participle": "seeing"
+    },
+    {
+      "present": "seek",
+      "past": "sought",
+      "past_participle": "sought",
+      "third": "seeks",
+      "participle": "seeking"
+    },
+    {
+      "present": "seem",
+      "past": "seemed",
+      "past_participle": "seemed",
+      "third": "seems",
+      "participle": "seeming"
+    },
+    {
+      "present": "sell",
+      "past": "sold",
+      "past_participle": "sold",
+      "third": "sells",
+      "participle": "selling"
+    },
+    {
+      "present": "send",
+      "past": "sent",
+      "past_participle": "sent",
+      "third": "sends",
+      "participle": "sending"
+    },
+    {
+      "present": "set",
+      "past": "set",
+      "past_participle": "set",
+      "third": "sets",
+      "participle": "setting"
+    },
+    {
+      "present": "sew",
+      "past": "sewed",
+      "past_participle": "sewn",
+      "third": "sews",
+      "participle": "sewing"
+    },
+    {
+      "present": "shed",
+      "past": "shed",
+      "past_participle": "shed",
+      "third": "sheds",
+      "participle": "shedding"
+    },
+    {
+      "present": "shoe",
+      "past": "shod",
+      "past_participle": "shod",
+      "third": "shoes",
+      "participle": "shoeing"
+    },
+    {
+      "present": "show",
+      "past": "showed",
+      "past_participle": "shown",
+      "third": "shows",
+      "participle": "showing"
+    },
+    {
+      "present": "shun",
+      "past": "shunned",
+      "past_participle": "shunned",
+      "third": "shuns",
+      "participle": "shunning"
+    },
+    {
+      "present": "sing",
+      "past": "sang",
+      "past_participle": "sung",
+      "third": "sings",
+      "participle": "singing"
+    },
+    {
+      "present": "sink",
+      "past": "sank",
+      "past_participle": "sunk",
+      "third": "sinks",
+      "participle": "sinking"
+    },
+    {
+      "present": "sip",
+      "past": "sipped",
+      "past_participle": "sipped",
+      "third": "sips",
+      "participle": "sipping"
+    },
+    {
+      "present": "sit",
+      "past": "sat",
+      "past_participle": "sat",
+      "third": "sits",
+      "participle": "sitting"
+    },
+    {
+      "present": "ski",
+      "past": "skied",
+      "past_participle": "skied",
+      "third": "skis",
+      "participle": "skiing"
+    },
+    {
+      "present": "skid",
+      "past": "skidded",
+      "past_participle": "skidded",
+      "third": "skids",
+      "participle": "skidding"
+    },
+    {
+      "present": "slam",
+      "past": "slammed",
+      "past_participle": "slammed",
+      "third": "slams",
+      "participle": "slamming"
+    },
+    {
+      "present": "slay",
+      "past": "slew",
+      "past_participle": "slain",
+      "third": "slays",
+      "participle": "slaying"
+    },
+    {
+      "present": "slim",
+      "past": "slimmed",
+      "past_participle": "slimmed",
+      "third": "slims",
+      "participle": "slimming"
+    },
+    {
+      "present": "slip",
+      "past": "slipped",
+      "past_participle": "slipped",
+      "third": "slips",
+      "participle": "slipping"
+    },
+    {
+      "present": "slit",
+      "past": "slit",
+      "past_participle": "slit",
+      "third": "slits",
+      "participle": "slitting"
+    },
+    {
+      "present": "snap",
+      "past": "snapped",
+      "past_participle": "snapped",
+      "third": "snaps",
+      "participle": "snapping"
+    },
+    {
+      "present": "soar",
+      "past": "soared",
+      "past_participle": "soared",
+      "third": "soars",
+      "participle": "soaring"
+    },
+    {
+      "present": "sob",
+      "past": "sobbed",
+      "past_participle": "sobbed",
+      "third": "sobs",
+      "participle": "sobbing"
+    },
+    {
+      "present": "sort",
+      "past": "sorted",
+      "past_participle": "sorted",
+      "third": "sorts",
+      "participle": "sorting"
+    },
+    {
+      "present": "sow",
+      "past": "sowed",
+      "past_participle": "sowed",
+      "third": "sows",
+      "participle": "sowing"
+    },
+    {
+      "present": "stay",
+      "past": "stayed",
+      "past_participle": "stayed",
+      "third": "stays",
+      "participle": "staying"
+    },
+    {
+      "present": "stem",
+      "past": "stemmed",
+      "past_participle": "stemmed",
+      "third": "stems",
+      "participle": "stemming"
+    },
+    {
+      "present": "step",
+      "past": "stepped",
+      "past_participle": "stepped",
+      "third": "steps",
+      "participle": "stepping"
+    },
+    {
+      "present": "stir",
+      "past": "stirred",
+      "past_participle": "stirred",
+      "third": "stirs",
+      "participle": "stirring"
+    },
+    {
+      "present": "stop",
+      "past": "stopped",
+      "past_participle": "stopped",
+      "third": "stops",
+      "participle": "stopping"
+    },
+    {
+      "present": "sway",
+      "past": "swayed",
+      "past_participle": "swayed",
+      "third": "sways",
+      "participle": "swaying"
+    },
+    {
+      "present": "swim",
+      "past": "swam",
+      "past_participle": "swum",
+      "third": "swims",
+      "participle": "swimming"
+    },
+    {
+      "present": "swot",
+      "past": "swotted",
+      "past_participle": "swotted",
+      "third": "swots",
+      "participle": "swotting"
+    },
+    {
+      "present": "take",
+      "past": "took",
+      "past_participle": "taken",
+      "third": "takes",
+      "participle": "taking"
+    },
+    {
+      "present": "talk",
+      "past": "talked",
+      "past_participle": "talked",
+      "third": "talks",
+      "participle": "talking"
+    },
+    {
+      "present": "tap",
+      "past": "tapped",
+      "past_participle": "tapped",
+      "third": "taps",
+      "participle": "tapping"
+    },
+    {
+      "present": "tax",
+      "past": "taxed",
+      "past_participle": "taxed",
+      "third": "taxes",
+      "participle": "taxing"
+    },
+    {
+      "present": "tear",
+      "past": "tore",
+      "past_participle": "torn",
+      "third": "tears",
+      "participle": "tearing"
+    },
+    {
+      "present": "tee",
+      "past": "teed",
+      "past_participle": "teed",
+      "third": "tees",
+      "participle": "teeing"
+    },
+    {
+      "present": "tell",
+      "past": "told",
+      "past_participle": "told",
+      "third": "tells",
+      "participle": "telling"
+    },
+    {
+      "present": "tend",
+      "past": "tended",
+      "past_participle": "tended",
+      "third": "tends",
+      "participle": "tending"
+    },
+    {
+      "present": "test",
+      "past": "tested",
+      "past_participle": "tested",
+      "third": "tests",
+      "participle": "testing"
+    },
+    {
+      "present": "tie",
+      "past": "tied",
+      "past_participle": "tied",
+      "third": "ties",
+      "participle": "tying"
+    },
+    {
+      "present": "tire",
+      "past": "tired",
+      "past_participle": "tired",
+      "third": "tires",
+      "participle": "tiring"
+    },
+    {
+      "present": "toss",
+      "past": "tossed",
+      "past_participle": "tossed",
+      "third": "tosses",
+      "participle": "tossing"
+    },
+    {
+      "present": "trap",
+      "past": "trapped",
+      "past_participle": "trapped",
+      "third": "traps",
+      "participle": "trapping"
+    },
+    {
+      "present": "tree",
+      "past": "treed",
+      "past_participle": "treed",
+      "third": "trees",
+      "participle": "treeing"
+    },
+    {
+      "present": "try",
+      "past": "tried",
+      "past_participle": "tried",
+      "third": "tries",
+      "participle": "trying"
+    },
+    {
+      "present": "turn",
+      "past": "turned",
+      "past_participle": "turned",
+      "third": "turns",
+      "participle": "turning"
+    },
+    {
+      "present": "type",
+      "past": "typed",
+      "past_participle": "typed",
+      "third": "types",
+      "participle": "typing"
+    },
+    {
+      "present": "undo",
+      "past": "undid",
+      "past_participle": "undone",
+      "third": "undoes",
+      "participle": "undoing"
+    },
+    {
+      "present": "urge",
+      "past": "urged",
+      "past_participle": "urged",
+      "third": "urges",
+      "participle": "urging"
+    },
+    {
+      "present": "use",
+      "past": "used",
+      "past_participle": "used",
+      "third": "uses",
+      "participle": "using"
+    },
+    {
+      "present": "vary",
+      "past": "varied",
+      "past_participle": "varied",
+      "third": "varies",
+      "participle": "varying"
+    },
+    {
+      "present": "vex",
+      "past": "vexed",
+      "past_participle": "vexed",
+      "third": "vexes",
+      "participle": "vexing"
+    },
+    {
+      "present": "vie",
+      "past": "vied",
+      "past_participle": "vied",
+      "third": "vies",
+      "participle": "vying"
+    },
+    {
+      "present": "view",
+      "past": "viewed",
+      "past_participle": "viewed",
+      "third": "views",
+      "participle": "viewing"
+    },
+    {
+      "present": "wake",
+      "past": "woke",
+      "past_participle": "woken",
+      "third": "wakes",
+      "participle": "waking"
+    },
+    {
+      "present": "walk",
+      "past": "walked",
+      "past_participle": "walked",
+      "third": "walks",
+      "participle": "walking"
+    },
+    {
+      "present": "want",
+      "past": "wanted",
+      "past_participle": "wanted",
+      "third": "wants",
+      "participle": "wanting"
+    },
+    {
+      "present": "warn",
+      "past": "warned",
+      "past_participle": "warned",
+      "third": "warns",
+      "participle": "warning"
+    },
+    {
+      "present": "wave",
+      "past": "waved",
+      "past_participle": "waved",
+      "third": "waves",
+      "participle": "waving"
+    },
+    {
+      "present": "wax",
+      "past": "waxed",
+      "past_participle": "waxed",
+      "third": "waxes",
+      "participle": "waxing"
+    },
+    {
+      "present": "wear",
+      "past": "wore",
+      "past_participle": "worn",
+      "third": "wears",
+      "participle": "wearing"
+    },
+    {
+      "present": "wed",
+      "past": "wed",
+      "past_participle": "wed",
+      "third": "weds",
+      "participle": "wedding"
+    },
+    {
+      "present": "weep",
+      "past": "wept",
+      "past_participle": "wept",
+      "third": "weeps",
+      "participle": "weeping"
+    },
+    {
+      "present": "wend",
+      "past": "went",
+      "past_participle": "went",
+      "third": "wends",
+      "participle": "wending"
+    },
+    {
+      "present": "win",
+      "past": "won",
+      "past_participle": "won",
+      "third": "wins",
+      "participle": "winning"
+    },
+    {
+      "present": "wind",
+      "past": "wound",
+      "past_participle": "wound",
+      "third": "winds",
+      "participle": "winding"
+    },
+    {
+      "present": "wish",
+      "past": "wished",
+      "past_participle": "wished",
+      "third": "wishes",
+      "participle": "wishing"
+    },
+    {
+      "present": "work",
+      "past": "worked",
+      "past_participle": "worked",
+      "third": "works",
+      "participle": "working"
+    },
+    {
+      "present": "yawn",
+      "past": "yawned",
+      "past_participle": "yawned",
+      "third": "yawns",
+      "participle": "yawning"
+    },
+    {
+      "present": "yell",
+      "past": "yelled",
+      "past_participle": "yelled",
+      "third": "yells",
+      "participle": "yelling"
+    },
+    {
+      "present": "zoom",
+      "past": "zoomed",
+      "past_participle": "zoomed",
+      "third": "zooms",
+      "participle": "zooming"
+    },
+    {
+      "present": "be",
+      "past": "was",
+      "past_participle": "been",
+      "third": "are",
+      "participle": "being"
+    },
+    {
+      "present": "have",
+      "past": "had",
+      "past_participle": "had",
+      "third": "have",
+      "participle": "having"
+    },
+    {
+      "present": "see",
+      "past": "saw",
+      "past_participle": "seen",
+      "third": "see",
+      "participle": "seeing"
+    },
+    {
+      "present": "make",
+      "past": "made",
+      "past_participle": "made",
+      "third": "make",
+      "participle": "making"
+    },
+    {
+      "present": "like",
+      "past": "liked",
+      "past_participle": "liked",
+      "third": "like",
+      "participle": "liking"
+    },
+    {
+      "present": "look",
+      "past": "looked",
+      "past_participle": "looked",
+      "third": "look",
+      "participle": "looking"
+    },
+    {
+      "present": "find",
+      "past": "found",
+      "past_participle": "found",
+      "third": "find",
+      "participle": "finding"
+    },
+    {
+      "present": "go",
+      "past": "went",
+      "past_participle": "gone",
+      "third": "go",
+      "participle": "going"
+    },
+    {
+      "present": "get",
+      "past": "got",
+      "past_participle": "gotten",
+      "third": "get",
+      "participle": "getting"
+    },
+    {
+      "present": "come",
+      "past": "came",
+      "past_participle": "come",
+      "third": "come",
+      "participle": "coming"
+    }
+  ],
+  "adjectives": [
+    "deep",
+    "drab",
+    "dull",
+    "flat",
+    "high",
+    "huge",
+    "hurt",
+    "icy",
+    "kind",
+    "puny",
+    "ripe",
+    "tart",
+    "vast",
+    "zany",
+    "nice",
+    "bad",
+    "mean",
+    "rude",
+    "calm",
+    "shy",
+    "warm",
+    "self",
+    "hard",
+    "tidy",
+    "good",
+    "neat",
+    "fair",
+    "sad",
+    "hot",
+    "cold",
+    "smug",
+    "cute",
+    "old",
+    "well",
+    "thin",
+    "slim",
+    "tall",
+    "big",
+    "oval",
+    "wear",
+    "long",
+    "full",
+    "slow",
+    "fast",
+    "weak",
+    "low",
+    "poor",
+    "sane",
+    "near",
+    "wide"
+  ],
+  "necessities": [
+    "the",
+    "at",
+    "there",
+    "some",
+    "my",
+    "of",
+    "her",
+    "than",
+    "and",
+    "this",
+    "an",
+    "would",
+    "first",
+    "a",
+    "each",
+    "to",
+    "from",
+    "which",
+    "in",
+    "or",
+    "she",
+    "him",
+    "is",
+    "one",
+    "do",
+    "into",
+    "who",
+    "you",
+    "how",
+    "that",
+    "by",
+    "their",
+    "its",
+    "it",
+    "word",
+    "if",
+    "now",
+    "he",
+    "but",
+    "will",
+    "two",
+    "not",
+    "up",
+    "more",
+    "long",
+    "for",
+    "what",
+    "other",
+    "down",
+    "on",
+    "all",
+    "about",
+    "day",
+    "out",
+    "as",
+    "we",
+    "many",
+    "with",
+    "when",
+    "then",
+    "no",
+    "his",
+    "your",
+    "them",
+    "way",
+    "they",
+    "can",
+    "these",
+    "could",
+    "may",
+    "I",
+    "said",
+    "so",
+    "part",
+    "yours",
+    "mine",
+    "hers",
+    "theirs",
+    "ours",
+    "me",
+    "might",
+    "maybe",
+    "after",
+    "ago",
+    "around",
+    "before",
+    "gone",
+    "because",
+    "since",
+    "among",
+    "atop",
+    "behind",
+    "below",
+    "beneath",
+    "beside",
+    "between",
+    "beyond",
+    "close",
+    "far",
+    "inside",
+    "minus",
+    "onto",
+    "upon",
+    "together",
+    "toward",
+    "under",
+    "within",
+    "without",
+    "above",
+    "ahead",
+    "along",
+    "amid",
+    "away",
+    "off",
+    "through",
+    "well",
+    "besides",
+    "except",
+    "case",
+    "instead",
+    "less",
+    "like",
+    "plus",
+    "unlike",
+    "versus",
+    "nor",
+    "yet",
+    "only",
+    "just",
+    "very",
+    "even",
+    "back",
+    "still",
+    "here",
+    "too",
+    "where",
+    "again",
+    "over",
+    "never",
+    "why",
+    "quite",
+    "right",
+    "much",
+    "often",
+    "prior",
+    "once",
+    "ever",
+    "today",
+    "thus",
+    "else",
+    "soon",
+    "most",
+    "round",
+    "used",
+    "okay",
+    "yes",
+    "apart",
+    "fully",
+    "early",
+    "alone",
+    "hard",
+    "twice",
+    "etc",
+    "hence",
+    "fast",
+    "badly",
+    "late",
+    "aside",
+    "able",
+    "truly",
+    "newly",
+    "any",
+    "deep",
+    "past",
+    "sadly",
+    "forth",
+    "near",
+    "also",
+    "half",
+    "every",
+    "daily",
+    "next",
+    "done",
+    "alike",
+    "high",
+    "based",
+    "tight",
+    "duly",
+    "aloud",
+    "dead",
+    "loud",
+    "wide",
+    "oddly",
+    "short",
+    "sure"
+  ]
+}

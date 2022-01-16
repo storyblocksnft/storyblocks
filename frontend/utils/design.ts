@@ -1,0 +1,1 @@
+export const GRADIENT = "bg-gradient-to-r from-blue-gray-900 via-purple-900 to-blue-gray-900"
